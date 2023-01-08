@@ -3,7 +3,7 @@ from  threading import Thread
 import  requests,os
 import timestamp
 c=amino.Client()
-c.login(email=input("email••>> "),password=input("password••>> "))
+c.login(email=input("email ••> "),password=input("password ••> "))
 sid=c.sid
 headers={
 "NDCAUTH":f"sid={sid}",	"NDCDEVICEID":"523AB662B024CA1F8AB72A43832CCB4E4232712E80CE7B0E1A2365FF588AF54520689CBCF59B7D6C52",
