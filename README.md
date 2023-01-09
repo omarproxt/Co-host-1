@@ -6,4 +6,3 @@
 - git clone https://github.com/omarproxt/Co-host-1
 - cd Co-host-1
 - python Co-host-1
-# Co-host-1
