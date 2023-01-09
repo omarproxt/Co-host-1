@@ -1,5 +1,6 @@
 # Co-host-1
 
+- pip install timestamp
 - apt update -y
 - apt upgrade -y
 - pkg install python
