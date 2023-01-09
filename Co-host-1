@@ -1,3 +1,5 @@
+import os
+os.system ('clear')
 import requests, pyfiglet,time,sys,webbrowser 
 Ab='\033[1;92m'
 aB='\033[1;91m'
