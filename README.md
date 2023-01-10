@@ -1,8 +1,8 @@
-# the work?
+# Co-host-1
 
 Co-host invitation tool for one person
 
-# Co-host-1
+# commands
 
 - pip install timestamp
 - apt update -y
