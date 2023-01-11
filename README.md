@@ -4,6 +4,9 @@ Co-host invitation tool for one person
 
 # commands
 
+- pip install amino.fix
+- pip install pyfiglet
+- pip install requests
 - pip install timestamp
 - apt update -y
 - apt upgrade -y
