@@ -5,6 +5,7 @@ Co-host invitation tool for one person
 # commands
 
 - pip install amino.fix
+- pip install ZAmino.fix
 - pip install pyfiglet
 - pip install requests
 - pip install timestamp
