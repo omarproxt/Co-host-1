@@ -15,7 +15,7 @@ Ya_Bs = '\033[1;34m'
 S_aBs = '\033[1;33m'
 logo = pyfiglet.figlet_format('omarproxt')
 print(a_bSa+logo)
-import aminofix as amino
+import ZAminofix as amino
 from  threading import Thread
 import  requests,os
 import timestamp
